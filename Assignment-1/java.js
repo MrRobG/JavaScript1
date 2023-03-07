@@ -4,7 +4,11 @@ function myFunction() {
     document.getElementById('demo').innerHTML =
       'Hello Squire ' + username + '! Are you ready for an adventure!?';
   }
-  alert(' Hello ' + username + '. Welcome to the quest we call javascript!');
+  alert(
+    ' Hello ' +
+      username +
+      '. Will you join our quest for ancient knowledge? We are on a mission to learn javascript!'
+  );
 }
 
 console.log('Hello Adventurer!');
