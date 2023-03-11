@@ -11,4 +11,17 @@ function myFunction() {
   );
 }
 
+function myfunction() {
+  document.getElementById('test').innerHTML =
+    parseFloat(10) +
+    '<br>' +
+    parseFloat('10') +
+    '<br>' +
+    parseFloat('10.33') +
+    '<br>' +
+    parseFloat('34 45 66') +
+    '<br>' +
+    parseFloat('He was 40');
+}
+
 console.log('Hello Adventurer!');
