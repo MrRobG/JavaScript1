@@ -1,0 +1,11 @@
+body {
+  padding: 10px;
+  height: 100vh;
+  background-image: linear-gradient(rgb(61, 61, 231), lightblue);
+}
+.content {
+  background-color: white;
+  border-style: double;
+  text-align: center;
+  padding: 10px;
+}
