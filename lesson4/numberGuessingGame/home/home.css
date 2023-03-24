@@ -1,7 +1,7 @@
 body {
   padding: 10px;
   height: 100vh;
-  background-image: linear-gradient(rgb(61, 61, 231), lightblue);
+  background-image: url('Mainevent1.jpg');
 }
 .content {
   background-color: white;
